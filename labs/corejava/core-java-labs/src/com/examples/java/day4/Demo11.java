@@ -1,7 +1,8 @@
 package com.Ashwini.class4;
 
 class Bike{
-    public final void drive(){
+   // public final void drive(){
+   public void drive(){
         System.out.println("Driving.....");
 
     }

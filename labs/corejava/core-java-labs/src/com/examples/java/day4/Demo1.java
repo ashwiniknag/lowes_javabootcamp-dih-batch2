@@ -8,7 +8,7 @@ class Employee {
     private int bankAcc;
 
     public void getFullName(){
-        System.out.println(firstName + "" + lastName);
+        System.out.println(firstName + " " + lastName);
     }
 }
 

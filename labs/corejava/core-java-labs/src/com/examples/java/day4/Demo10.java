@@ -1,7 +1,7 @@
 package com.Ashwini.class4;
 
-final class parent {
-
+//final class parent {
+class parent{
 }
 
 class child extends parent{
