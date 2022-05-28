@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="350732fd-f14c-48e5-9567-0acdd6bdc79e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/Calculator/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/AddMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/CopyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/DupElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/EvenPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/FreqOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/LeftRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/MultiplyMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/NoOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/OddPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/PrintArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/RightRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/SecLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/SecSmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/SmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/SortAscend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/SortDescend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/SumOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/arrays/ThirdLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/assignment1/Q2SumFirstEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/assignment1/Q3MultiTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/assignment1/Q4ReverseMultiTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/assignment1/Q6FactorialWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignments/assignment1/Q9SumMultiTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/assignments/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/src/main/java/com/empapp/EmployeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/src/main/java/com/empapp/EmployeeManagementMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/src/main/java/com/empapp/EmployeeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/src/main/java/com/empapp/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mngmt-with-arrays/src/test/java/com/Empapp/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day5/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day5/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day5/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day5/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day5/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day5/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day5/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day6/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day6/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day6/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day6/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day6/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day6/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day6/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day6/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day6/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day7/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day7/Demo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day7/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day7/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day7/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day7/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day7/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day7/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day7/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day8/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day8/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day8/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day8/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day8/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day8/Demo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-assignments.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/day1/Question2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/day1/Question3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/day1/Question4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/day1/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/assignments/assignment1/Q5FactorialForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/day1/Question6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/day1/Question9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/core-java-labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/core-java-labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day4/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day4/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day4/Demo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day4/Demo10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day4/Demo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day4/Demo11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day4/Demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../labs/corejava/core-java-labs/src/com/examples/java/day4/Demo7.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29Q2jI9Cjlgy6IyPAz1VwltmboF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.RemoveDuplicate">
+    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignments.Calculator.CalculatorApp" />
+      <module name="core-java-assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignments.Calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignments.arrays.RemoveDuplicate" />
+      <module name="core-java-assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignments.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RightRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignments.arrays.RightRotate" />
+      <module name="core-java-assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignments.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignments.arrays.SecSmallestElement" />
+      <module name="core-java-assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignments.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignments.arrays.ThirdLargestElement" />
+      <module name="core-java-assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignments.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RemoveDuplicate" />
+        <item itemvalue="Application.RightRotate" />
+        <item itemvalue="Application.CalculatorApp" />
+        <item itemvalue="Application.SecSmallestElement" />
+        <item itemvalue="Application.ThirdLargestElement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="350732fd-f14c-48e5-9567-0acdd6bdc79e" name="Changes" comment="" />
+      <created>1653031123611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653031123611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/assignments/arrays/LargestElement.java</url>
+          <line>4</line>
+          <properties class="com.assignments.arrays.LargestElement" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/assignments/Calculator/CalculatorApp.java</url>
+          <line>33</line>
+          <properties class="com.assignments.Calculator.CalculatorApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
