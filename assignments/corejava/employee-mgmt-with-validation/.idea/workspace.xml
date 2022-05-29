@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="034a7ce3-b84e-41dd-b7dc-116c94db36ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../employee-mgmt-with-collection/employee-mgmt-with-collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/src/main/java/com/empapp/employeeMgmtStatsMain/EmployeeStatsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/src/main/java/com/empapp/exception/EmployeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/src/main/java/com/empapp/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/src/main/java/com/empapp/service/EmployeeServiceStatsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/src/main/java/com/empapp/service/employeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/empapp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/empapp/employeeMgmtMainVal/EmployeeMainVal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/empapp/exception/EmployeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/empapp/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/empapp/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/empapp/service/EmployeeServiceVal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/src/main/java/com/assignments/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/src/main/java/com/empapp/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/src/main/java/com/assignments/Calculator/CalculatorApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/src/test/java/com/assignments/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/Calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/Calculator/CalculatorApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/AddMatrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/CopyArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/DupElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/EvenPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/FreqOfElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/LargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/LeftRotate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/MultiplyMatrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/NoOfElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/OddPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/PrintArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/RemoveDup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/RemoveDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/RightRotate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/SecLargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/SecSmallestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/SmallestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/SortAscend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/SortDescend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/SumOfElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/arrays/ThirdLargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/assignment1/Q2SumFirstEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/assignment1/Q3MultiTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/assignment1/Q4ReverseMultiTables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/assignment1/Q5FactorialForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/assignment1/Q6FactorialWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/target/classes/com/assignments/assignment1/Q9SumMultiTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-arrays/src/test/java/com/empapp/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-mgmt-with-stats/src/test/java/com/empapp/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-arrays/target/classes/com/empapp/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-arrays/target/classes/com/empapp/employeeMain/EmployeeManagementMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-arrays/target/classes/com/empapp/exception/EmployeeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-arrays/target/classes/com/empapp/model/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-arrays/target/classes/com/empapp/service/EmployeeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-collection/src/main/java/com/empapp/exception/EmployeeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-mgmt-with-collection/src/main/java/com/empapp/exception/EmployeeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-collection/src/main/java/com/empapp/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-mgmt-with-collection/src/main/java/com/empapp/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-collection/src/test/java/com/empapp/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/empapp/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-collection/target/classes/com/empapp/employeeMainColln/EmployeeMgmtMainColImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-collection/target/classes/com/empapp/exception/EmployeeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-collection/target/classes/com/empapp/model/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-collection/target/classes/com/empapp/service/EmployeeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-mgmt-with-collection/target/classes/com/empapp/service/EmployeeServiceColImpl.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="29pju0C9zqGq4VhiPiaKBOSHyHx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EmployeeMainVal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.empapp.employeeMgmtMainVal.EmployeeMainVal" />
+      <module name="employee-mgmt-with-validation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.empapp.employeeMgmtMainVal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeMainVal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="034a7ce3-b84e-41dd-b7dc-116c94db36ef" name="Changes" comment="" />
+      <created>1653817145394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653817145394</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
