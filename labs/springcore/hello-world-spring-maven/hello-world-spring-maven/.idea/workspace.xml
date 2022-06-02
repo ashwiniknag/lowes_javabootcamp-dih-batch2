@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ababeb4-7b48-4041-bb41-eb364b1df8da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../corejava/core-java-labs/src/com/labs/java/jdbc/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/core-java-labs/src/com/labs/java/jdbc/out/production/jdbc/com/labs/java/jdbc/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/config/beans-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/lib/spring-beans-5.3.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/lib/spring-context-5.3.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/lib/spring-core-5.3.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/lib/spring-expression-5.3.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/lib/spring-jcl-5.3.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/src/beans-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/src/main/java/com/labs/spring/core/Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/src/main/java/com/labs/spring/core/HelloWorldSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hello-world-spring/hello-world-spring/src/test/java/com/spring/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../assignments/corejava/employee-mgmt-with-stats/src/main/java/com/empapp/Output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../assignments/corejava/employee-mgmt-with-stats/src/main/java/com/empapp/Output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../assignments/corejava/employee-mgmt-with-stats/src/main/java/com/empapp/employeeMgmtStatsMain/EmployeeStatsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../assignments/corejava/employee-mgmt-with-stats/src/main/java/com/empapp/employeeMgmtStatsMain/EmployeeStatsMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../assignments/corejava/employee-mgmt-with-stats/target/classes/com/empapp/employeeMgmtStatsMain/EmployeeStatsMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../assignments/corejava/employee-mgmt-with-stats/target/classes/com/empapp/employeeMgmtStatsMain/EmployeeStatsMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../assignments/corejava/employee-mgmt-with-stats/target/classes/com/empapp/service/EmployeeServiceStatsImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../assignments/corejava/employee-mgmt-with-stats/target/classes/com/empapp/service/EmployeeServiceStatsImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../corejava/core-java-labs/core-java-labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../corejava/core-java-labs/core-java-labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../corejava/core-java-labs/out/production/core-java-labs/com/examples/java/day8/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../corejava/core-java-labs/out/production/core-java-labs/com/examples/java/day8/Demo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../corejava/core-java-labs/src/com/examples/java/day8/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../corejava/core-java-labs/src/com/examples/java/day8/Demo3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29vAKmXUg2p97IEIcqXeAfA2YSr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ababeb4-7b48-4041-bb41-eb364b1df8da" name="Changes" comment="" />
+      <created>1653983125453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653983125453</updated>
+    </task>
+    <servers />
+  </component>
+</project>
