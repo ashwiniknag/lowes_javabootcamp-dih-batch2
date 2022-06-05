@@ -2,8 +2,6 @@ package com.empapp.service;
 import com.empapp.model.Employee;
 
 import java.io.BufferedReader;
-/*import java.io.File;
-import java.io.FileInputStream;*/
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 //import java.io.FileWriter;
@@ -14,10 +12,6 @@ import java.time.LocalDate;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
-//import java.util.HashMap;
-/*import java.util.Scanner;
-import java.util.Set;
-import java.util.StringTokenizer;*/
 
 import java.util.function.Function;
 import java.util.function.Predicate;

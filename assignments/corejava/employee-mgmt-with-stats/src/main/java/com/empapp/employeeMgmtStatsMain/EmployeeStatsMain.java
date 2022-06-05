@@ -1,14 +1,14 @@
 package com.empapp.employeeMgmtStatsMain;
-import java.util.List;
-import java.util.InputMismatchException;
-import java.util.Scanner;
-import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
-import com.empapp.model.Employee;
-import com.empapp.service.EmployeeServiceStatsImpl;
-import com.empapp.exception.EmployeeException;
+    import java.util.List;
+    import java.util.InputMismatchException;
+    import java.util.Scanner;
+    import java.util.concurrent.Callable;
+    import java.util.concurrent.ExecutorService;
+    import java.util.concurrent.Executors;
+    import java.util.concurrent.Future;
+    import com.empapp.model.Employee;
+    import com.empapp.service.EmployeeServiceStatsImpl;
+    import com.empapp.exception.EmployeeException;
 
 public class EmployeeStatsMain extends EmployeeException{
     static int option;
@@ -47,6 +47,7 @@ public class EmployeeStatsMain extends EmployeeException{
                 option = scn.nextInt();
             } catch (InputMismatchException e) {
                 System.out.println("Enter Integer Value for option");
+
             }
 
             switch (option) {
@@ -140,7 +141,7 @@ public class EmployeeStatsMain extends EmployeeException{
                     break;
 
                 default:
-                    throw new EmployeeException("Enter valid option");
+                    System.out.println("Enter valid option");
             }
         } while (workinprogress) ;
 
@@ -165,7 +166,6 @@ public class EmployeeStatsMain extends EmployeeException{
         } catch (NumberFormatException e) {
             System.out.println();
         }
-
 
         System.out.print("Enter Designation - ");
         emp.setDesignation(scn.next());

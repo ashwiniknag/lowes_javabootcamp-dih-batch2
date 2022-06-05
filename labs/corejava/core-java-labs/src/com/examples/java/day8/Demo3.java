@@ -36,9 +36,9 @@ public class Demo3 {
     public static void main(String[] args) {
         Bank bank1  = new Bank(123456);
 
-        bank1.deposit(1000);
+        bank1.deposit(500);
        try {
-        bank1.withdraw(500);}
+        bank1.withdraw(1000);}
        catch (InsufficientFund i){};
 
     }
