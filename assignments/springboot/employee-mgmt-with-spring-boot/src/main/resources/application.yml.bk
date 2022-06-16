@@ -1,0 +1,16 @@
+spring.profiles.active: dev
+---
+spring.profiles: dev
+dbname: hibernate_training
+host: localhost
+port: 3306
+---
+spring.profiles: uat
+dbname: hibernate_training_uat
+host: localhost
+port: 3306
+---
+spring.profiles: prod
+dbname: hibernate_training_prod
+host: localhost
+port: 3306

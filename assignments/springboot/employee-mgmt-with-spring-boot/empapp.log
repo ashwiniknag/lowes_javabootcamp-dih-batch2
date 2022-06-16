@@ -1,0 +1,201 @@
+2022-06-16 00:18:53.858  WARN 30536 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52m40s524ms650µs800ns).
+2022-06-16 00:21:06.879  WARN 30536 --- [http-nio-8080-exec-5] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain' not supported]
+2022-06-16 00:21:38.983  WARN 30536 --- [http-nio-8080-exec-8] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain' not supported]
+2022-06-16 00:32:23.831  INFO 30536 --- [Thread-5] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:32:23.839  INFO 30536 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-06-16 00:32:23.846  INFO 30536 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-06-16 00:32:24.001  INFO 30536 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Starting EmployeeMgmtWithSpringBootApplication using Java 17.0.2 on DESKTOP-OCLROCC with PID 30536 (C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot\target\classes started by Ashwini in C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot)
+2022-06-16 00:32:24.002  INFO 30536 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : The following 1 profile is active: "dev"
+2022-06-16 00:32:24.794  INFO 30536 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-16 00:32:24.820  INFO 30536 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 24 ms. Found 1 JPA repository interfaces.
+2022-06-16 00:32:25.044  INFO 30536 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-06-16 00:32:25.044  INFO 30536 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-16 00:32:25.044  INFO 30536 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-16 00:32:25.175  INFO 30536 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-16 00:32:25.176  INFO 30536 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1171 ms
+2022-06-16 00:32:25.354  INFO 30536 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-16 00:32:25.373  INFO 30536 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-06-16 00:32:25.399  INFO 30536 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-06-16 00:32:25.399  INFO 30536 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-06-16 00:32:33.491  INFO 30536 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-16 00:32:33.492  INFO 30536 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:32:33.639  WARN 30536 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-16 00:32:33.931  INFO 30536 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-06-16 00:32:33.939  INFO 30536 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-06-16 00:32:33.975  INFO 30536 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-16 00:32:33.985  INFO 30536 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Started EmployeeMgmtWithSpringBootApplication in 10.045 seconds (JVM running for 7655.797)
+2022-06-16 00:32:33.990  INFO 30536 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-06-16 00:32:49.455  INFO 30536 --- [Thread-7] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:32:49.457  INFO 30536 --- [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-06-16 00:32:49.472  INFO 30536 --- [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-06-16 00:32:49.606  INFO 30536 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Starting EmployeeMgmtWithSpringBootApplication using Java 17.0.2 on DESKTOP-OCLROCC with PID 30536 (C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot\target\classes started by Ashwini in C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot)
+2022-06-16 00:32:49.607  INFO 30536 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : The following 1 profile is active: "dev"
+2022-06-16 00:32:50.236  INFO 30536 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-16 00:32:50.275  INFO 30536 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 39 ms. Found 1 JPA repository interfaces.
+2022-06-16 00:32:50.605  INFO 30536 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-06-16 00:32:50.606  INFO 30536 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-16 00:32:50.607  INFO 30536 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-16 00:32:50.706  INFO 30536 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-16 00:32:50.707  INFO 30536 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1096 ms
+2022-06-16 00:32:50.825  INFO 30536 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-16 00:32:50.838  INFO 30536 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2022-06-16 00:32:50.861  INFO 30536 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2022-06-16 00:32:50.861  INFO 30536 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-06-16 00:32:55.783  INFO 31844 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Starting EmployeeMgmtWithSpringBootApplication using Java 17.0.2 on DESKTOP-OCLROCC with PID 31844 (C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot\target\classes started by Ashwini in C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot)
+2022-06-16 00:32:55.785  INFO 31844 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : The following 1 profile is active: "dev"
+2022-06-16 00:32:55.948  INFO 31844 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-16 00:32:55.949  INFO 31844 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-16 00:32:58.418  INFO 31844 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-16 00:32:58.447  INFO 30536 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-16 00:32:58.448  INFO 30536 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:32:58.519  INFO 31844 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 87 ms. Found 1 JPA repository interfaces.
+2022-06-16 00:32:58.596  WARN 30536 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-16 00:32:58.955  INFO 30536 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-06-16 00:32:58.962  INFO 30536 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-06-16 00:32:59.008  INFO 30536 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-16 00:32:59.029  INFO 30536 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Started EmployeeMgmtWithSpringBootApplication in 9.478 seconds (JVM running for 7680.84)
+2022-06-16 00:32:59.033  INFO 30536 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-06-16 00:33:06.534  INFO 31844 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-06-16 00:33:06.589  INFO 31844 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-16 00:33:06.590  INFO 31844 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-16 00:33:07.450  INFO 31844 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-16 00:33:07.451  INFO 31844 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 11501 ms
+2022-06-16 00:33:08.215  INFO 31844 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-16 00:33:08.662  INFO 31844 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-06-16 00:33:10.362  INFO 31844 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-06-16 00:33:10.849  INFO 31844 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-06-16 00:33:11.922  INFO 31844 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-06-16 00:33:12.956  INFO 31844 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-06-16 00:33:24.519  INFO 31844 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-16 00:33:24.538  INFO 31844 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:33:25.136  WARN 31844 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-16 00:33:25.977  WARN 31844 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-06-16 00:33:25.984  INFO 31844 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-06-16 00:33:26.038  WARN 31844 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2022-06-16 00:33:26.043  INFO 31844 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:33:26.051  INFO 31844 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-06-16 00:33:26.070  INFO 31844 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-06-16 00:33:26.074  INFO 31844 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-06-16 00:33:26.103  INFO 31844 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-06-16 00:33:26.140 ERROR 31844 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-06-16 00:33:47.613  INFO 30536 --- [RMI TCP Connection(103)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-06-16 00:33:47.643  INFO 30536 --- [RMI TCP Connection(103)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:33:47.646  INFO 30536 --- [RMI TCP Connection(103)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2022-06-16 00:33:47.657  INFO 30536 --- [RMI TCP Connection(103)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2022-06-16 00:34:03.433  INFO 9360 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Starting EmployeeMgmtWithSpringBootApplication using Java 17.0.2 on DESKTOP-OCLROCC with PID 9360 (C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot\target\classes started by Ashwini in C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot)
+2022-06-16 00:34:03.435  INFO 9360 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : The following 1 profile is active: "dev"
+2022-06-16 00:34:03.515  INFO 9360 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-16 00:34:03.516  INFO 9360 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-16 00:34:05.444  INFO 9360 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-16 00:34:05.592  INFO 9360 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 125 ms. Found 1 JPA repository interfaces.
+2022-06-16 00:34:06.933  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-06-16 00:34:06.950  INFO 9360 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-16 00:34:06.950  INFO 9360 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-16 00:34:07.571  INFO 9360 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-16 00:34:07.573  INFO 9360 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4056 ms
+2022-06-16 00:34:08.448  INFO 9360 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-16 00:34:08.582  INFO 9360 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-06-16 00:34:09.011  INFO 9360 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-06-16 00:34:09.295  INFO 9360 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-06-16 00:34:10.502  INFO 9360 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-06-16 00:34:10.570  INFO 9360 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-06-16 00:34:34.069  INFO 9360 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-16 00:34:34.086  INFO 9360 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:34:34.803  WARN 9360 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-16 00:34:35.816  INFO 9360 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-06-16 00:34:35.830  INFO 9360 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-06-16 00:34:36.085  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-16 00:34:36.113  INFO 9360 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Started EmployeeMgmtWithSpringBootApplication in 33.458 seconds (JVM running for 34.927)
+2022-06-16 00:34:36.508  INFO 9360 --- [RMI TCP Connection(3)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-16 00:34:36.508  INFO 9360 --- [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-16 00:34:36.510  INFO 9360 --- [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-06-16 00:35:35.312 ERROR 9360 --- [http-nio-8080-exec-4] c.l.empapp.service.EmployeeServiceImpl   : Employee not found for the given id 1
+2022-06-16 00:35:35.314 ERROR 9360 --- [http-nio-8080-exec-4] c.l.e.controller.EmployeeController      : Employee not found for id :: 1
+2022-06-16 00:35:35.338  WARN 9360 --- [http-nio-8080-exec-4] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.lowes.empapp.exception.EmployeeException:  Employee not found for id :: 1]
+2022-06-16 00:38:06.557  INFO 9360 --- [Thread-5] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:38:07.133  INFO 9360 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-06-16 00:38:07.162  INFO 9360 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-06-16 00:38:08.478  INFO 9360 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Starting EmployeeMgmtWithSpringBootApplication using Java 17.0.2 on DESKTOP-OCLROCC with PID 9360 (C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot\target\classes started by Ashwini in C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot)
+2022-06-16 00:38:08.478  INFO 9360 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : The following 1 profile is active: "dev"
+2022-06-16 00:38:10.548  INFO 9360 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-16 00:38:10.666  INFO 9360 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 111 ms. Found 1 JPA repository interfaces.
+2022-06-16 00:38:10.995  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-06-16 00:38:10.998  INFO 9360 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-16 00:38:10.998  INFO 9360 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-16 00:38:11.623  INFO 9360 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-16 00:38:11.624  INFO 9360 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3141 ms
+2022-06-16 00:38:11.820  INFO 9360 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-16 00:38:11.835  INFO 9360 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-06-16 00:38:11.867  INFO 9360 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-06-16 00:38:11.867  INFO 9360 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-06-16 00:38:32.184  INFO 9360 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-16 00:38:32.185  INFO 9360 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:38:32.292  WARN 9360 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-16 00:38:32.579  INFO 9360 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-06-16 00:38:32.589  INFO 9360 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-06-16 00:38:32.628  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-16 00:38:32.652  INFO 9360 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Started EmployeeMgmtWithSpringBootApplication in 25.121 seconds (JVM running for 271.466)
+2022-06-16 00:38:32.657  INFO 9360 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-06-16 00:38:34.135  INFO 9360 --- [Thread-7] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:38:34.136  INFO 9360 --- [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-06-16 00:38:34.145  INFO 9360 --- [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-06-16 00:38:34.281  INFO 9360 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Starting EmployeeMgmtWithSpringBootApplication using Java 17.0.2 on DESKTOP-OCLROCC with PID 9360 (C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot\target\classes started by Ashwini in C:\Users\Ashwini\Training\lowes_javabootcamp-dih-batch2\assignments\springboot\employee-mgmt-with-spring-boot)
+2022-06-16 00:38:34.281  INFO 9360 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : The following 1 profile is active: "dev"
+2022-06-16 00:38:34.805  INFO 9360 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-16 00:38:34.819  INFO 9360 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 1 JPA repository interfaces.
+2022-06-16 00:38:34.953  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-06-16 00:38:34.954  INFO 9360 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-16 00:38:34.954  INFO 9360 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-16 00:38:35.062  INFO 9360 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-16 00:38:35.063  INFO 9360 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 779 ms
+2022-06-16 00:38:35.111  INFO 9360 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-16 00:38:35.117  INFO 9360 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2022-06-16 00:38:35.128  INFO 9360 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2022-06-16 00:38:35.128  INFO 9360 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-06-16 00:38:53.640  INFO 9360 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-16 00:38:53.641  INFO 9360 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-16 00:38:53.769  WARN 9360 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-16 00:38:54.068  INFO 9360 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-06-16 00:38:54.076  INFO 9360 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-06-16 00:38:54.113  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-16 00:38:54.133  INFO 9360 --- [restartedMain] .e.EmployeeMgmtWithSpringBootApplication : Started EmployeeMgmtWithSpringBootApplication in 19.908 seconds (JVM running for 292.947)
+2022-06-16 00:38:54.136  INFO 9360 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-06-16 00:40:42.934  INFO 9360 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-16 00:40:42.934  INFO 9360 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-16 00:40:42.939  INFO 9360 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2022-06-16 00:43:09.780  WARN 9360 --- [http-nio-8080-exec-5] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/plain' not supported]
+2022-06-16 01:08:24.884 ERROR 9360 --- [http-nio-8080-exec-1] c.l.empapp.service.EmployeeServiceImpl   : Employee not found for the given id 2
+2022-06-16 01:08:24.889  WARN 9360 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.lowes.empapp.exception.EmployeeException:  Employee not found for id :: 2]
+2022-06-16 01:09:16.844 ERROR 9360 --- [http-nio-8080-exec-4] c.l.empapp.service.EmployeeServiceImpl   : Employee not found for the given id 2
+2022-06-16 01:09:16.848  WARN 9360 --- [http-nio-8080-exec-4] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.lowes.empapp.exception.EmployeeException:  Employee not found for id :: 2]
+2022-06-16 01:13:15.379 ERROR 9360 --- [http-nio-8080-exec-10] c.l.empapp.service.EmployeeServiceImpl   : Employee not found for the given id 5
+2022-06-16 01:13:15.380 ERROR 9360 --- [http-nio-8080-exec-10] c.l.e.controller.EmployeeController      : Employee not found for id :: 5
+2022-06-16 01:13:15.382  WARN 9360 --- [http-nio-8080-exec-10] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.lowes.empapp.exception.EmployeeException:  Employee not found for id :: 5]
+2022-06-16 01:14:06.037 ERROR 9360 --- [http-nio-8080-exec-1] c.l.empapp.service.EmployeeServiceImpl   : Employee not found for the given id 6
+2022-06-16 01:14:06.041  WARN 9360 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.lowes.empapp.exception.EmployeeException:  Employee not found for id :: 6]
+2022-06-16 01:16:04.530  WARN 9360 --- [http-nio-8080-exec-6] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction]
+2022-06-16 01:16:46.620  WARN 9360 --- [http-nio-8080-exec-8] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction]
+2022-06-16 01:18:17.921  WARN 9360 --- [http-nio-8080-exec-9] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.lowes.empapp.model.ResponseMessage> com.lowes.empapp.controller.EmployeeController.create(com.lowes.empapp.model.Employee) throws java.net.URISyntaxException,com.lowes.empapp.exception.EmployeeException: [Field error in object 'employee' on field 'age': rejected value [11]; codes [Min.employee.age,Min.age,Min.int,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [employee.age,age]; arguments []; default message [age],18]; default message [must be greater than or equal to 18]] ]
+2022-06-16 01:19:27.916  WARN 9360 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.lowes.empapp.model.ResponseMessage> com.lowes.empapp.controller.EmployeeController.create(com.lowes.empapp.model.Employee) throws java.net.URISyntaxException,com.lowes.empapp.exception.EmployeeException: [Field error in object 'employee' on field 'name': rejected value []; codes [NotEmpty.employee.name,NotEmpty.name,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [employee.name,name]; arguments []; default message [name]]; default message [Employee Name cannot be null or empty.]] ]
+2022-06-16 01:20:51.440  WARN 9360 --- [http-nio-8080-exec-3] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.lowes.empapp.model.ResponseMessage> com.lowes.empapp.controller.EmployeeController.create(com.lowes.empapp.model.Employee) throws java.net.URISyntaxException,com.lowes.empapp.exception.EmployeeException with 2 errors: [Field error in object 'employee' on field 'age': rejected value [88]; codes [Max.employee.age,Max.age,Max.int,Max]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [employee.age,age]; arguments []; default message [age],60]; default message [must be less than or equal to 60]] [Field error in object 'employee' on field 'name': rejected value []; codes [NotEmpty.employee.name,NotEmpty.name,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [employee.name,name]; arguments []; default message [name]]; default message [Employee Name cannot be null or empty.]] ]
+2022-06-16 01:24:07.761  WARN 9360 --- [http-nio-8080-exec-6] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "actuator"]
+2022-06-16 01:24:15.153  WARN 9360 --- [http-nio-8080-exec-8] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2022-06-16 01:24:17.843  WARN 9360 --- [http-nio-8080-exec-10] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2022-06-16 01:24:45.262  WARN 9360 --- [http-nio-8080-exec-9] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2022-06-16 01:24:49.223  WARN 9360 --- [http-nio-8080-exec-2] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2022-06-16 01:29:28.502  WARN 9360 --- [http-nio-8080-exec-3] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
