@@ -75,4 +75,4 @@ services:
       - gateway-service
       environment:
       	REGISTRY_SERVER_HOST: registry-service
-	KAFKA_BOOTSTRAP_SERVERS:kafka:9092
+KAFKA_BOOTSTRAP_SERVERS:kafka:9092
