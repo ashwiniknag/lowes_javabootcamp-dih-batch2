@@ -1,0 +1,26 @@
+package com.lowes.bankingapp.account;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+//import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+//import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@SpringBootApplication
+//@EnableDiscoveryClient
+@RestController
+public class AccountServiceMain {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AccountServiceMain.class, args);
+	}
+//
+//	@GetMapping("/")
+//	public String home(HttpServletRequest req) {
+//		return "Welcome to Account Service API :: " + req.getRequestURL().toString();
+//	}
+
+}
