@@ -1,0 +1,7 @@
+version: '3.3'
+registry-service:
+      image: Banking/registry-service
+      container_name: registry-service
+      restart: always 
+      ports:
+        - 8761:8761
