@@ -1,4 +1,4 @@
-FROM openjdk:11-jre-alpine
+FROM openjdk:11
 LABEL version="1.0"
 LABEL description="FundTransfer Service Image"
 COPY ./target/*.jar app.jar
