@@ -75,15 +75,4 @@ services:
       - gateway-service
       environment:
       	REGISTRY_SERVER_HOST: registry-service
-	KAFKA_BOOTSTRAP_SERVERS:  kafka:9092  
-
- admin-service:
-      image: Banking/admin-service
-      container_name: admin-service
-      restart: always 
-      ports:
-        - 7777:7777
-      depends_on:
-      - gateway-service
-      environment:
-        REGISTRY_SERVER_HOST: registry-service  
+	KAFKA_BOOTSTRAP_SERVERS:  kafka:9092
