@@ -1,6 +1,6 @@
 FROM openjdk:11-jre-alpine
 LABEL version="1.0"
-LABEL description="Admin Service Image"
+LABEL description="Account Service Image"
 COPY ./target/*.jar app.jar
 ENTRYPOINT ["java","-jar","/app.jar"]
-EXPOSE 7777
+EXPOSE 8091

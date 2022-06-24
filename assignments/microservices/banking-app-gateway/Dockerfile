@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-alpine
+FROM openjdk:11-jre-alpine
 LABEL version="1.0"
 LABEL description="Gateway Service Image"
 COPY ./target/*.jar app.jar
